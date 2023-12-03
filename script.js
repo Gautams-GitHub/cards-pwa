@@ -6,9 +6,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Fetch and display card data
     function fetchAndDisplayData() {
-        // Fetch data from JSON file (to be implemented)
-        const dummyData = []; // Replace with actual data
-        displayCard(dummyData[currentCardIndex]);
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                // Assuming data is an array of card objects
+                const dummyData = data;
+                displayCard(dummyData[currentCardIndex]);
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
     }
 
     // Display card
