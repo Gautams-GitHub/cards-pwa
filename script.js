@@ -19,23 +19,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function displayCard(cardData) {
         const cardContainer = document.getElementById('card-container');
-        const cardHTML = generateCardHTML(cardData);
-        cardContainer.innerHTML = cardHTML;
-
         if (currentCardIndex === totalCards - 1) {
             displayThankYouCard();
-        }
+        } else {
+            const cardHTML = generateCardHTML(cardData);
+            cardContainer.innerHTML = cardHTML;
+        }             
     }
 
     function displayThankYouCard() {
         const cardContainer = document.getElementById('card-container');
         const thankYouHTML = generateCardHTML({
             title: 'Thank You!',
-            imgSrc: 'path/to/thankyou-image.jpg', // Replace with the actual path
+            imgSrc: './thankyou-image.png', // Replace with the actual path
             text: 'We appreciate your time!'
         });
 
-        cardContainer.innerHTML += thankYouHTML;
+        cardContainer.innerHTML = thankYouHTML;
     }
 
     function generateCardHTML(cardData) {
