@@ -2,14 +2,13 @@
 
 const CACHE_NAME = 'pwa-card-app-cache-v1';
 const urlsToCache = [
-    '/',
-    'index.html',
-    'manifest.json',
-    'styles.css',
-    'script.js',
-    'data.json',
-    'path/to/image1.jpg', // Replace with actual paths to your dummy images
-    'path/to/image2.jpg'
+    './',
+    './index.html',
+    './manifest.json',
+    './styles.css',
+    './script.js',
+    './data.json',
+    
 ];
 
 self.addEventListener('install', function (event) {
