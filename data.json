@@ -2,57 +2,57 @@
 [
   {
     "title": "Card 1",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 1."
   },
   {
     "title": "Card 2",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 2."
   },
   {
     "title": "Card 3",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 3."
   },
   {
     "title": "Card 4",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 4."
   },
   {
     "title": "Card 5",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 5."
   },
   {
     "title": "Card 6",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 6."
   },
   {
     "title": "Card 7",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 7."
   },
   {
     "title": "Card 8",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 8."
   },
   {
     "title": "Card 9",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 9."
   },
   {
     "title": "Card 10",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 10."
   },
   {
     "title": "Card 11",
-    "imgSrc": "https://picsum.photos/400/600",
+    "imgSrc": "https://picsum.photos/400",
     "text": "This is the text for card 11."
   }
 ]
