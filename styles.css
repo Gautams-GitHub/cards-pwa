@@ -1,0 +1,28 @@
+/* styles.css */
+
+#card-container {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card .title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.card .text {
+    margin: 10px;
+}

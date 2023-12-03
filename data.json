@@ -1,0 +1,15 @@
+
+
+[
+    {
+      "title": "Card 1",
+      "imgSrc": "https://picsum.photos/200/300",
+      "text": "This is the text for card 1."
+    },
+    {
+      "title": "Card 2",
+      "imgSrc": "https://picsum.photos/200/300",
+      "text": "This is the text for card 2."
+    }
+  ]
+  

@@ -1,0 +1,1 @@
+Template for cards scroll PWA App.
