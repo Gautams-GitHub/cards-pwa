@@ -1,5 +1,5 @@
 // script.js
-import { pwaInstallHandler } from "./pwaInstallHandlers";
+import { pwaInstallHandler } from "./pwaInstallHandlers.js";
 
 const $button = document.querySelector("#installButton");
 
