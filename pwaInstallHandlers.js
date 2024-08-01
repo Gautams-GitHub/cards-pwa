@@ -1,3 +1,5 @@
+// https://github.com/FilipChalupa/pwa-install-handler
+
 class PwaInstallHandler {
   constructor() {
     this.event = null;
