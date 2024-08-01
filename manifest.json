@@ -8,21 +8,21 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://picsum.photos/200",
+      "src": "https://picsum.photos/192",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
   "screenshots": [
     {
-      "src": "https://picsum.photos/320/640",
+      "src": "https://picsum.photos/640/320",
       "sizes": "640x320",
       "type": "image/gif",
       "form_factor": "wide",
       "label": "Wonder Widgets"
     },
     {
-      "src": "https://picsum.photos/320/640",
+      "src": "https://picsum.photos/640/320",
       "sizes": "640x320",
       "type": "image/gif",
       "form_factor": "narrow",
