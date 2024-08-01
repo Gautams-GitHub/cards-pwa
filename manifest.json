@@ -15,10 +15,17 @@
   ],
   "screenshots": [
     {
-      "src": "https://picsum.photos/640",
+      "src": "https://picsum.photos/320/640",
       "sizes": "640x320",
       "type": "image/gif",
       "form_factor": "wide",
+      "label": "Wonder Widgets"
+    },
+    {
+      "src": "https://picsum.photos/320/640",
+      "sizes": "640x320",
+      "type": "image/gif",
+      "form_factor": "narrow",
       "label": "Wonder Widgets"
     }
   ]
